@@ -1,0 +1,3 @@
+*.iso
+result/*.iso
+scripts/*.exe
