@@ -16,7 +16,7 @@ This repo contains the necessary files to build a small win10 bootable image you
 
 4. Run Docker container to get bootable iso image in "result" folder.
    ```console
-   docker run -t --rm -v /dev:/dev -v $PWD/result:/workspace/result -v path/to/original/win10.iso:/workspace/win10.iso --privileged -t 1vyprep:v1.0
+   docker run -d --rm -v /dev:/dev -v $PWD/result:/workspace/result -v path/to/original/win10.iso:/workspace/win10.iso --privileged -t 1vyprep:v1.0
    ```
 5. Burn the winflash.iso image onto a flash drive.
 
