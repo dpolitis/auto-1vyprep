@@ -43,3 +43,5 @@ This was a fun work to do over a free weekend.
 Many thanks to [n4ru](https://1vyra.in/) for the original implementation.
 
 Huge thanks go out to [gch1p](https://github.com/gch1p/thinkpad-bios-software-flashing-guide) for publishing the method used and [pgera](https://github.com/hamishcoleman/thinkpad-ec/issues/70#issuecomment-417903315) for the working commands, without them this would have not been possible.
+
+***Of course USE AT YOUR OWN RISK!! I will not be held responsible for anything that may happen to you or your hardware. You have been noted. If you do not understand what this project does, please do not use it.***
